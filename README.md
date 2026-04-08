@@ -1,4 +1,4 @@
-# <center>Hello World! 👋
+# <p align="center">Hello World! 👋 <.</p>
 
 My name is James Chen, and I am an upcoming 2026 graduate pursuing a BA in Data Visualization at the University of Washington Bothell. I chose this field because I enjoy turning data into meaningful stories that make information easier to understand for others.
 
