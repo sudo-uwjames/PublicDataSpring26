@@ -7,4 +7,10 @@ Source: [Seattle Open Data](https://data.seattle.gov/City-Business/-of-City-of-S
 
 ![Visualization](84c6cf365f411674.jpg)
 
-<p align="center">https://public.flourish.studio/visualisation/28545676/</p>
+<p align="center"></p>
+
+<p align="center">
+  <a href="https://public.flourish.studio/visualisation/28545676/" target="_blank">
+    https://public.flourish.studio/visualisation/28545676/
+  </a>
+</p>
