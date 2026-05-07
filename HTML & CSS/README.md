@@ -1,5 +1,12 @@
 # My Costco Review using HTML & CSS
 
-I have created a website written in HTML & CSS that incorporates styling, pictures, and bullet points.
+This project is a static website built with HTML and CSS that showcases my favorite company, Costco.
 
-Here is the website.
+It features custom styling, images, and bullet points to present information in a visually appealing style.
+
+## Preview of the Website
+
+![Picture of Website](preview.jpeg)
+
+
+
