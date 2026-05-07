@@ -1,26 +1,43 @@
 body {
-  font-family: "Source Sans 3", sans-serif;
+  font-family: "Helvetica Neue", sans-serif;
   font-size: 16px;
   padding: 1em;
 }
 
-h1 {
-  font-size: 3em;
-  margin: 0.25em 0;
-}
-
-h3 {
+#title {
   font-size: 2em;
-  margin: 0.25em 0;
+  margin: 0.5em 0;
+  text-align: center;
 }
 
-h4 {
-  font-size: 1.5em;
-  margin: 0.25em 0;
-  font-weight: bold;
+#costco-guys-picture {
+  text-align: center;
 }
 
-p {
-  font-size: 1em;
-  color: blue;
+#subtitle {
+  font-size: 0.8em;
+  margin: 1em 0;
+  text-align: center;
+}
+
+#source {
+  font-size: 0.8em;
+  text-align: center;
+  color: grey;
+}
+
+#facts {
+  margin: 0 auto;
+  max-width: 600px;
+  font-size: 1.1em;
+  text-align: left;
+  line-height: 1.7;
+}
+
+#review {
+  margin: 0 auto;
+  max-width: 900px;
+  font-size: 1.1em;
+  text-align: left;
+  line-height: 1.7;
 }
